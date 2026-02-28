@@ -1,16 +1,16 @@
 # Info about you
-name: Your Name
+name: Natália Salvino André
 position: Job Title
 email: youremail@gmail.com
 company_name: Company Name
 company_url: https://www.yourcompany.com
-place_name: City, ST
+place_name: São Paulo, SP
 
 # Blog info
 title: Your Name's Blog
 description: Blog
-url: https://brendanhasz.github.io/github-io-blog-template/
-main_github_io: false
+url: https://natalia-sa.github.io
+main_github_io: true
 long_description: >-
     Hi!  Welcome to the template github.io blog site.  This can be a paragraph
     introducing yourself which will go at the top of the main page for your
