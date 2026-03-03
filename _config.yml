@@ -1,5 +1,5 @@
 # Info about you
-name: Natália Salvino André
+name: Natália Salvino
 position: Estudante de pós-graduação
 email: natalia.andre@ime.usp.br
 company_name: IME-USP
@@ -12,9 +12,7 @@ description: Blog
 url: https://natalia-sa.github.io
 main_github_io: true
 long_description: >-
-    Hi!  Welcome to the template github.io blog site.  This can be a paragraph
-    introducing yourself which will go at the top of the main page for your
-    blog.
+    Blog pessoal para registrar aprendizagens da disicplina Desenvolvimento de Software Livre - MAC5856 
 
 # Social links
 github_url: https://github.com/natalia-sa
