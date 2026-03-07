@@ -15,7 +15,7 @@ Get assets path
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% if page.img_url %}
-    <meta property="og:image" content="{{ page.img_url }}"/>
+    <meta property="og:image" content="{{ page.img_url | relative_url}}"/>
     {% else %}
     <meta property="og:image" content="{{ assets }}/img/blog_og_image.png"/>
     <meta property="og:image:width" content="1200" />
