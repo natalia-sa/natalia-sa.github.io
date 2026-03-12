@@ -1,18 +1,18 @@
 # Info about you
 name: Natália Salvino
-position: Estudante de pós-graduação
+position: Graduate student
 email: natalia.andre@ime.usp.br
 company_name: IME-USP
 company_url: https://www.ime.usp.br/
 place_name: São Paulo, SP
 
 # Blog info
-title: Your Name's Blog
+title: MAC5856 Blog
 description: Blog
 url: https://natalia-sa.github.io
 main_github_io: true
 long_description: >-
-    Blog pessoal para registrar aprendizagens da disicplina Desenvolvimento de Software Livre - MAC5856 
+    Personal blog to record learnings from the Free Software Development course - MAC5856
 
 # Social links
 github_url: https://github.com/natalia-sa
