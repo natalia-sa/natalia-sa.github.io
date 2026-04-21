@@ -3,7 +3,11 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }} - Tags: {{ page.tags | array_to_sentence_string }}</p>
-
+{% if page.img_url %}
+<div class="post-featured-image" style="margin: 20px 0;">
+  <img src="{{ page.img_url | relative_url }}" alt="{{ page.title }}" style="width: 100%; border-radius: 8px;">
+</div>
+{% endif %}
 <div class="button_container">
   {% if page.github_url %}
     <a href="{{ page.github_url }}">
