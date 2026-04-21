@@ -5,7 +5,7 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }} - Tags: {{ page.tags | array_to_sentence_string }}</p>
 {% if page.img_url %}
 <div class="post-featured-image" style="margin: 20px 0; text-align: center;">
-  <img src="{{ page.img_url | relative_url }}" alt="{{ page.title }}" style="max-width: 400px; width: 100%; border-radius: 8px;">
+  <img src="{{ page.img_url | relative_url }}" alt="{{ page.title }}" style="max-width: 300px; width: 50%; border-radius: 8px;">
 </div>
 {% endif %}
 <div class="button_container">
